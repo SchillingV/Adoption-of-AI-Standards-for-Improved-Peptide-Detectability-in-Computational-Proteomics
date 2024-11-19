@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="494"
+   height="336"
+   viewBox="0 0 494 336"
+   id="svg110"
+   sodipodi:docname="M_D_occurences_swapped.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs110" />
+  <sodipodi:namedview
+     id="namedview110"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2576849"
+     inkscape:cx="267.75216"
+     inkscape:cy="169.19988"
+     inkscape:window-width="1712"
+     inkscape:window-height="1069"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg110" />
+  <rect
+     width="494"
+     height="336"
+     fill="white"
+     id="rect1" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="m 39.5,5.5 h 450 v 250 h -450 z"
+     stroke="#dddddd"
+     id="path1"
+     style="fill:none;stroke-miterlimit:10" />
+  <g
+     class="mark-group role-axis"
+     aria-hidden="true"
+     id="g9"
+     transform="translate(39,5)"
+     style="fill:none;stroke-miterlimit:10">
+    <g
+       transform="translate(0.5,0.5)"
+       id="g8">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 Z"
+         pointer-events="none"
+         id="path2" />
+      <g
+         id="g7">
+        <g
+           class="mark-rule role-axis-grid"
+           pointer-events="none"
+           id="g6">
+          <line
+             transform="translate(0,250)"
+             x2="450"
+             y2="0"
+             stroke="#dddddd"
+             stroke-width="1"
+             opacity="1"
+             id="line2"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,198)"
+             x2="450"
+             y2="0"
+             stroke="#dddddd"
+             stroke-width="1"
+             opacity="1"
+             id="line3"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,146)"
+             x2="450"
+             y2="0"
+             stroke="#dddddd"
+             stroke-width="1"
+             opacity="1"
+             id="line4"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,94)"
+             x2="450"
+             y2="0"
+             stroke="#dddddd"
+             stroke-width="1"
+             opacity="1"
+             id="line5"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,42)"
+             x2="450"
+             y2="0"
+             stroke="#dddddd"
+             stroke-width="1"
+             opacity="1"
+             id="line6"
+             x1="0"
+             y1="0" />
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path7" />
+    </g>
+  </g>
+  <g
+     class="mark-group role-axis"
+     role="graphics-symbol"
+     aria-roledescription="axis"
+     aria-label="X-axis titled 'Year' for a discrete scale with 16 values: 2006, 2007, 2008, 2009, 2010, ending with 2024"
+     id="g44"
+     transform="translate(39,5)"
+     style="fill:none;stroke-miterlimit:10">
+    <g
+       transform="translate(0.5,250.5)"
+       id="g43">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 Z"
+         pointer-events="none"
+         id="path9" />
+      <g
+         id="g42">
+        <g
+           class="mark-rule role-axis-tick"
+           pointer-events="none"
+           id="g24">
+          <line
+             transform="translate(14)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line9"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(42)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line10"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(70)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line11"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(98)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line12"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(126)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line13"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(154)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line14"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(182)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line15"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(210)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line16"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(239)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line17"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(267)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line18"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(295)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line19"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(323)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line20"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(351)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line21"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(379)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line22"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(407)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line23"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(435)"
+             x2="0"
+             y2="5"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line24"
+             x1="0"
+             y1="0" />
+        </g>
+        <g
+           class="mark-text role-axis-label"
+           pointer-events="none"
+           id="g39">
+          <text
+             text-anchor="end"
+             transform="rotate(-45,24.887852,-16.871386)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text24">2006</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,38.950352,-50.821264)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text25">2007</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,53.012852,-84.771142)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text26">2008</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,67.075352,-118.72102)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text27">2009</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,81.137852,-152.6709)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text28">2010</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,95.200352,-186.62078)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text29">2011</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,109.26285,-220.57066)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text30">2014</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,123.32535,-254.52053)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text31">2015</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,137.38785,-288.47041)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text32">2017</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,151.45035,-322.42029)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text33">2018</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,165.51285,-356.37017)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text34">2019</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,179.57535,-390.32005)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text35">2020</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,193.63785,-424.26992)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text36">2021</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,207.70035,-458.2198)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text37">2022</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,221.76285,-492.16968)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text38">2023</text>
+          <text
+             text-anchor="end"
+             transform="rotate(-45,235.82535,-526.11956)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text39">2024</text>
+        </g>
+        <g
+           class="mark-rule role-axis-domain"
+           pointer-events="none"
+           id="g40">
+          <line
+             x2="450"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line39"
+             x1="0"
+             y1="0" />
+        </g>
+        <g
+           class="mark-text role-axis-title"
+           pointer-events="none"
+           id="g41">
+          <text
+             text-anchor="middle"
+             transform="translate(225,42.801432)"
+             font-family="sans-serif"
+             font-size="11px"
+             font-weight="bold"
+             fill="#000000"
+             opacity="1"
+             id="text40">Year</text>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path42" />
+    </g>
+  </g>
+  <g
+     class="mark-group role-axis"
+     role="graphics-symbol"
+     aria-roledescription="axis"
+     aria-label="Y-axis titled 'Cumulative Occurrences' for a linear scale with values from 0 to 24"
+     id="g57"
+     transform="translate(39,5)"
+     style="fill:none;stroke-miterlimit:10">
+    <g
+       transform="translate(0.5,0.5)"
+       id="g56">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 Z"
+         pointer-events="none"
+         id="path44" />
+      <g
+         id="g55">
+        <g
+           class="mark-rule role-axis-tick"
+           pointer-events="none"
+           id="g48">
+          <line
+             transform="translate(0,250)"
+             x2="-5"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line44"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,198)"
+             x2="-5"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line45"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,146)"
+             x2="-5"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line46"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,94)"
+             x2="-5"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line47"
+             x1="0"
+             y1="0" />
+          <line
+             transform="translate(0,42)"
+             x2="-5"
+             y2="0"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line48"
+             x1="0"
+             y1="0" />
+        </g>
+        <g
+           class="mark-text role-axis-label"
+           pointer-events="none"
+           id="g52">
+          <text
+             text-anchor="end"
+             transform="translate(-7,253)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text48">0</text>
+          <text
+             text-anchor="end"
+             transform="translate(-7,200.91667)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text49">5</text>
+          <text
+             text-anchor="end"
+             transform="translate(-7,148.83333)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text50">10</text>
+          <text
+             text-anchor="end"
+             transform="translate(-7,96.75)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text51">15</text>
+          <text
+             text-anchor="end"
+             transform="translate(-7,44.666667)"
+             font-family="sans-serif"
+             font-size="10px"
+             fill="#000000"
+             opacity="1"
+             id="text52">20</text>
+        </g>
+        <g
+           class="mark-rule role-axis-domain"
+           pointer-events="none"
+           id="g53">
+          <line
+             transform="translate(0,250)"
+             x2="0"
+             y2="-250"
+             stroke="#888888"
+             stroke-width="1"
+             opacity="1"
+             id="line52"
+             x1="0"
+             y1="0" />
+        </g>
+        <g
+           class="mark-text role-axis-title"
+           pointer-events="none"
+           id="g54">
+          <text
+             text-anchor="middle"
+             transform="rotate(-90,50.438477,74.561523)"
+             font-family="sans-serif"
+             font-size="11px"
+             font-weight="bold"
+             fill="#000000"
+             opacity="1"
+             id="text53">Cumulative Occurrences</text>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path55" />
+    </g>
+  </g>
+  <path
+     aria-label="Year: 2006; Cumulative Occurrences: 1; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 40.40625,244.58333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path57"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2007; Cumulative Occurrences: 3; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 68.53125,223.75 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path58"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2008; Cumulative Occurrences: 5; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 96.65625,202.91667 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path59"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2009; Cumulative Occurrences: 6; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 124.78125,192.5 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path60"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2010; Cumulative Occurrences: 7; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 152.90625,182.08333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path61"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2011; Cumulative Occurrences: 8; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 181.03125,171.66667 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path62"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2014; Cumulative Occurrences: 9; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 209.15625,161.25 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path63"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2015; Cumulative Occurrences: 11; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 237.28125,140.41667 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path64"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2017; Cumulative Occurrences: 12; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 265.40625,130 h 25.3125 v 125 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path65"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2018; Cumulative Occurrences: 12; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 293.53125,130 h 25.3125 v 125 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path66"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2019; Cumulative Occurrences: 13; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 321.65625,119.58333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path67"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2020; Cumulative Occurrences: 13; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 349.78125,119.58333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path68"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2021; Cumulative Occurrences: 13; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 377.90625,119.58333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path69"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2022; Cumulative Occurrences: 13; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 406.03125,119.58333 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path70"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2023; Cumulative Occurrences: 14; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 434.15625,109.16667 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path71"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2024; Cumulative Occurrences: 14; Category: Traditional Machine Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 462.28125,109.16667 h 25.3125 V 255 h -25.3125 z"
+     fill="#ffffff"
+     stroke="#808080"
+     id="path72"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2006; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 40.40625,244.58333 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path73"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2007; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 68.53125,223.75 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path74"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2008; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 96.65625,202.91667 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path75"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2009; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 124.78125,192.5 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path76"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2010; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 152.90625,182.08333 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path77"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2011; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 181.03125,171.66667 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path78"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2014; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 209.15625,161.25 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path79"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2015; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 237.28125,140.41667 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path80"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2017; Cumulative Occurrences: 0; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 265.40625,130 h 25.3125 v 0 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path81"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2018; Cumulative Occurrences: 1; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 293.53125,119.58333 h 25.3125 V 130 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path82"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2019; Cumulative Occurrences: 1; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 321.65625,109.16667 h 25.3125 v 10.41666 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path83"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2020; Cumulative Occurrences: 3; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 349.78125,88.333333 h 25.3125 v 31.249997 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path84"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2021; Cumulative Occurrences: 5; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 377.90625,67.5 h 25.3125 v 52.08333 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path85"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2022; Cumulative Occurrences: 6; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 406.03125,57.083333 h 25.3125 v 62.499997 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path86"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2023; Cumulative Occurrences: 8; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 434.15625,25.833333 h 25.3125 v 83.333337 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path87"
+     style="stroke-miterlimit:10" />
+  <path
+     aria-label="Year: 2024; Cumulative Occurrences: 9; Category: Deep Learning"
+     role="graphics-symbol"
+     aria-roledescription="bar"
+     d="m 462.28125,15.416667 h 25.3125 v 93.750003 h -25.3125 z"
+     fill="#000000"
+     stroke="#808080"
+     id="path88"
+     style="stroke-miterlimit:10" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="106.33853"
+     y="232.65887"
+     id="text3-0"><tspan
+       id="tspan3-2"
+       x="106.33853"
+       y="232.65887"
+       sodipodi:role="line">5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="134.51561"
+     y="227.51823"
+     id="text3-0-0"><tspan
+       id="tspan3-2-3"
+       x="134.51561"
+       y="227.51823"
+       sodipodi:role="line">6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="162.58592"
+     y="222.30991"
+     id="text3-0-0-7"><tspan
+       id="tspan3-2-3-0"
+       x="162.58592"
+       y="222.30991"
+       sodipodi:role="line">7</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="190.73958"
+     y="217.10158"
+     id="text3-0-0-3"><tspan
+       id="tspan3-2-3-9"
+       x="190.73958"
+       y="217.10158"
+       sodipodi:role="line">8</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="218.85936"
+     y="211.89323"
+     id="text3-0-0-9"><tspan
+       id="tspan3-2-3-91"
+       x="218.85936"
+       y="211.89323"
+       sodipodi:role="line">9</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="243.67967"
+     y="201.47658"
+     id="text3-0-0-72"><tspan
+       id="tspan3-2-3-3"
+       x="243.67967"
+       y="201.47658"
+       sodipodi:role="line">11</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="272.92447"
+     y="196.33334"
+     id="text3-0-0-6"><tspan
+       id="tspan3-2-3-5"
+       x="272.92447"
+       y="196.33334"
+       sodipodi:role="line">12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="299.95572"
+     y="196.33334"
+     id="text3-0-0-5"><tspan
+       id="tspan3-2-3-8"
+       x="299.95572"
+       y="196.33334"
+       sodipodi:role="line">12</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="329.42447"
+     y="192.4136"
+     id="text3-0-0-1"><tspan
+       id="tspan3-2-3-4"
+       x="329.42447"
+       y="192.4136"
+       sodipodi:role="line">13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="357.54947"
+     y="192.4136"
+     id="text3-0-0-71"><tspan
+       id="tspan3-2-3-38"
+       x="357.54947"
+       y="192.4136"
+       sodipodi:role="line">13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="385.67447"
+     y="192.4136"
+     id="text3-0-0-4"><tspan
+       id="tspan3-2-3-80"
+       x="385.67447"
+       y="192.4136"
+       sodipodi:role="line">13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="413.79947"
+     y="192.4136"
+     id="text3-0-0-46"><tspan
+       id="tspan3-2-3-03"
+       x="413.79947"
+       y="192.4136"
+       sodipodi:role="line">13</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="441.88541"
+     y="186.66409"
+     id="text3-0-0-2"><tspan
+       id="tspan3-2-3-6"
+       x="441.88541"
+       y="186.66409"
+       sodipodi:role="line">14</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="470.01041"
+     y="186.66409"
+     id="text3-0-0-94"><tspan
+       id="tspan3-2-3-1"
+       x="470.01041"
+       y="186.66409"
+       sodipodi:role="line">14</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="303.61978"
+     y="128.62502"
+     id="text3-0-0-37"><tspan
+       id="tspan3-2-3-88"
+       x="303.61978"
+       y="128.62502"
+       sodipodi:role="line">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="331.74478"
+     y="118.20834"
+     id="text3-0-0-37-3"><tspan
+       id="tspan3-2-3-88-8"
+       x="331.74478"
+       y="118.20834"
+       sodipodi:role="line">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="359.48956"
+     y="107.72397"
+     id="text3-0-0-37-1"><tspan
+       id="tspan3-2-3-88-5"
+       x="359.48956"
+       y="107.72397"
+       sodipodi:role="line">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="387.58853"
+     y="97.242195"
+     id="text3-0-0-37-35"><tspan
+       id="tspan3-2-3-88-4"
+       x="387.58853"
+       y="97.242195"
+       sodipodi:role="line">5</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="415.76562"
+     y="92.10157"
+     id="text3-0-0-37-36"><tspan
+       id="tspan3-2-3-88-59"
+       x="415.76562"
+       y="92.10157"
+       sodipodi:role="line">6</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="443.86456"
+     y="71.268242"
+     id="text3-0-0-37-5"><tspan
+       id="tspan3-2-3-88-49"
+       x="443.86456"
+       y="71.268242"
+       sodipodi:role="line">8</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff"
+     x="471.98438"
+     y="66.059906"
+     id="text3-0-0-37-17"><tspan
+       id="tspan3-2-3-88-55"
+       x="471.98438"
+       y="66.059906"
+       sodipodi:role="line">9</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:10.6667px;line-height:0;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:0;display:inline;mix-blend-mode:normal;fill:#ffffff"
+     x="50.548237"
+     y="259.16"
+     id="text2"
+     transform="translate(-0.05345329,-5.5349932)"><tspan
+       id="tspan2"
+       x="50.548237"
+       y="259.16"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:0;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000"
+     x="78.239571"
+     y="243.14064"
+     id="text3"><tspan
+       id="tspan3"
+       x="78.239571"
+       y="243.14064"
+       sodipodi:role="line">3</tspan></text>
+  <g
+     class="mark-group role-legend"
+     role="graphics-symbol"
+     aria-roledescription="legend"
+     aria-label="Symbol legend for fill color with 2 values: Traditional Machine Learning, Deep Learning"
+     id="g106"
+     transform="translate(39,5)"
+     style="fill:none;stroke-miterlimit:10">
+    <g
+       transform="translate(0,313)"
+       id="g105">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 H 258 V 13 H 0 Z"
+         pointer-events="none"
+         id="path89" />
+      <g
+         id="g104">
+        <g
+           class="mark-group role-legend-entry"
+           id="g103">
+          <g
+             id="g102">
+            <path
+               class="background"
+               aria-hidden="true"
+               d="M 0,0 Z"
+               pointer-events="none"
+               id="path90" />
+            <g
+               id="g101">
+              <g
+                 class="mark-group role-scope"
+                 role="graphics-object"
+                 aria-roledescription="group mark container"
+                 id="g100">
+                <g
+                   transform="translate(0,0.25)"
+                   id="g95">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 144.59375 V 12.5 H 0 Z"
+                     pointer-events="none"
+                     opacity="1"
+                     id="path91" />
+                  <g
+                     id="g94">
+                    <g
+                       class="mark-symbol role-legend-symbol"
+                       pointer-events="none"
+                       id="g92">
+                      <path
+                         transform="translate(6,6)"
+                         d="M -5,-5 H 5 V 5 H -5 Z"
+                         fill="#ffffff"
+                         stroke="#808080"
+                         stroke-width="1.5"
+                         opacity="1"
+                         id="path92" />
+                    </g>
+                    <g
+                       class="mark-text role-legend-label"
+                       pointer-events="none"
+                       id="g93">
+                      <text
+                         text-anchor="start"
+                         transform="translate(16,9)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text92">Traditional Machine Learning</text>
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path94" />
+                </g>
+                <g
+                   transform="translate(176,0.25)"
+                   id="g99">
+                  <path
+                     class="background"
+                     aria-hidden="true"
+                     d="M 0,0 H 81.605469 V 12.5 H 0 Z"
+                     pointer-events="none"
+                     opacity="1"
+                     id="path95" />
+                  <g
+                     id="g98">
+                    <g
+                       class="mark-symbol role-legend-symbol"
+                       pointer-events="none"
+                       id="g96">
+                      <path
+                         transform="translate(6,6)"
+                         d="M -5,-5 H 5 V 5 H -5 Z"
+                         fill="#000000"
+                         stroke="#808080"
+                         stroke-width="1.5"
+                         opacity="1"
+                         id="path96" />
+                    </g>
+                    <g
+                       class="mark-text role-legend-label"
+                       pointer-events="none"
+                       id="g97">
+                      <text
+                         text-anchor="start"
+                         transform="translate(16,9)"
+                         font-family="sans-serif"
+                         font-size="10px"
+                         fill="#000000"
+                         opacity="1"
+                         id="text96">Deep Learning</text>
+                    </g>
+                  </g>
+                  <path
+                     class="foreground"
+                     aria-hidden="true"
+                     d=""
+                     pointer-events="none"
+                     display="none"
+                     id="path98" />
+                </g>
+              </g>
+            </g>
+            <path
+               class="foreground"
+               aria-hidden="true"
+               d=""
+               pointer-events="none"
+               display="none"
+               id="path101" />
+          </g>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path104" />
+    </g>
+  </g>
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     display="none"
+     id="path107"
+     style="fill:none;stroke-miterlimit:10" />
+</svg>
